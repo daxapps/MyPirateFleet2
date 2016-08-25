@@ -47,9 +47,9 @@ struct Settings {
         static let HumanHitMine = "You've hit a mine! The computer has been rewarded an extra move on their next turn."
         static let ComputerHitMine = "The computer has hit a mine! You've been awarded an extra move on your next turn."
 //        static let HumanHitMonster = "You've hit a sea monster! RIGHT NOW THE COMPUTER WILL JUST TAKE AN EXTRA TURN..."
-        static let HumanHitMonster = "You've awakened a seamonster! This giant marine reptile is comin' for your ships!"
+        static let HumanHitMonster = "You've awakened a sea monster! This giant marine reptile is comin' for your ships!"
 //        static let ComputerHitMonster = "The computer has hit a sea monster! RIGHT NOW WE'LL JUST SKIP THE COMPUTER'S NEXT TURN..."
-        static let ComputerHitMonster = "The computer has hit a sea monster! The computer gets a free hit on one of your ships."
+        static let ComputerHitMonster = "The computer has hit a sea monster! You get a free hit on one of the computer's ships."
         static let ResetAction = "Reset Game"
         static let DismissAction = "Continue"
     }
